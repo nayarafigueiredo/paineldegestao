@@ -9,6 +9,6 @@ Este é um sistema de gestão desenvolvido para **monitorar, organizar e otimiza
 - 📊 **Dashboards com KPIs** 
 - 📝 **Relatórios detalhados por período, campanha ou operador**
 - 🔔 **Alertas automáticos para situações críticas**
-- 🔒 **Análise diária detalahada**
+- 🔒 **Análise diária detalhada**
 - 🗓️ **Histórico de chamadas**
 
